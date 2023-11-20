@@ -1,0 +1,8 @@
+.cont {
+    margin-top: 8rem;
+}
+@media (min-width: 768px) { 
+    .cont{
+        margin-top: 30%;
+    }
+}

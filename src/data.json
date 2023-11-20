@@ -1,0 +1,54 @@
+{
+    "posts" : [
+        {
+            "&id" : "1",
+            "title": "A Changing World Order",
+            "description" : "The world is changing at a feverish pace. Friends, collegues and everyone engaged in knowledge work are beginning to sense this, including",
+            "idea" : "musing",
+            "writtenBy" : "by anujgosalia",
+            "date" : "August 2",
+            "readTime" : "2 mins",
+            "views" : "102"
+        },
+        {
+            "&id" : "2",
+            "title": "India v/s Australia",
+            "description" : "Think about it - this cricket series was akin to therapy.\n\nLaying our childhood trauma up top, working with it slowly and surely over two months",
+            "idea" : "thought",
+            "writtenBy" : "by anujgosalia",
+            "date" : "January 21",
+            "readTime" : "1 min",
+            "views" : "156"
+        },
+        {
+            "&id" : "3",
+            "title": "Write To Build",
+            "description" : "Writing is the first step to create:\n\n- stories\n- products\n- companies",
+            "idea" : "thought",
+            "writtenBy" : "by anujgosalia",
+            "date" : "November 18",
+            "readTime" : "1 min",
+            "views" : "228"
+        },
+        {
+            "&id" : "4",
+            "title": "Wanderlust Chronicles: Embracing the Journey",
+            "description" : "Embark on a virtual adventure with \"Wanderlust Chronicles,\" where we weave tales of exploration, discovery, and cultural immersion. Join us as we share travel tips, uncover hidden gems, and celebrate the beauty of diverse landscapes. From breathtaking destinations to unique local experiences, our blog is a passport to inspiration and a reminder that the journey is just as important as the destination. Pack your virtual bags and explore the world through our stories, discovering the magic that happens when curiosity meets the open road. Welcome to a community that believes in the transformative power of travel and the joy of embracing the unknown.",
+            "idea" : "thought",
+            "writtenBy" : "by anujgosalia",
+            "date" : "June 8",
+            "readTime" : "3 mins",
+            "views" : "200"
+        },
+        {
+            "&id" : "4",
+            "title": "The cursed town of Ravenswood",
+            "description" : "In the cursed town of Ravenswood, Emily's quest for answers leads her to a dilapidated mansion. Exploring its depths, she stumbles upon a hidden basement adorned with cryptic symbols. Unleashing vengeful spirits seeking retribution for a tragic fire, Emily faces an otherworldly force. Ghostly whispers reveal the town's dark secrets. Panic sets in as unseen entities pursue her through the mansion's winding passages. A bone-chilling scream echoes, and the spectral flames of the curse consume Ravenswood. As the last embers fade, Emily stands alone in the silent, charred remnants of the once-cursed town, a witness to its supernatural demise.",
+            "idea" : "thought",
+            "writtenBy" : "by anujgosalia",
+            "date" : "September 15",
+            "readTime" : "2 mins",
+            "views" : "200"
+        }
+    ]
+}

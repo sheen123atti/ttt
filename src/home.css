@@ -1,0 +1,41 @@
+.holder{
+        
+    height:0;
+    max-width:0;
+    text-align: center;
+    position: relative;
+     }
+   .pp {
+     width: 130px;
+     height: 130px;
+     background-size: cover;
+     background-position: center;
+     background-image: url('./assets/pp.jpeg');
+     border-radius: 50%;
+     border: 2px solid grey;
+     position: absolute;
+     top: -40px;
+     left: 36px;
+   }
+
+@media (min-width: 768px) {
+    .holder{
+        
+   height:0;
+   max-width:0;
+   text-align: center;
+   position: relative;
+    }
+  .pp {
+    width: 250px; /*   300 */
+    height: 250px;
+    background-size: cover;
+    background-position: center;
+    background-image: url('./assets/pp.jpeg');
+    border-radius: 50%;
+    border: 2px solid grey;
+    position: absolute;
+    top: -70px;
+    left: 80px;
+  }
+}
