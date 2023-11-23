@@ -17,6 +17,33 @@
      top: -40px;
      left: 36px;
    }
+.follow-number{
+  border-radius: 4px;
+  width: 60px;
+  border: 2px solid grey;
+  top: 134%;
+  left: 45%;
+}
+
+.follow{
+  font-size: 14px;
+  top: 157%;
+  left: 45%
+}
+
+.following-number{
+  border-radius: 4px;
+  width: 60px;
+  border: 2px solid grey;
+  top: 134%;
+  left: 65%;
+}
+
+.following{
+  font-size: 14px;
+  top: 157%;
+  left: 65%
+}
 
 @media (min-width: 768px) {
     .holder{
@@ -38,4 +65,85 @@
     top: -70px;
     left: 80px;
   }
+  .pName {
+    font-size: 40px;
+  }
+  
+  
+.follow-number{
+  font-size: 20px;
+  border-radius: 4px;
+  width: 60px;
+  border: 2px solid grey;
+  top: 130%;
+  left: 46%;
+}
+
+.follow{
+  font-size: 20px;
+  top: 144%;
+  left: 45%
+}
+
+.following-number{
+  font-size: 20px;
+  border-radius: 4px;
+  width: 60px;
+  border: 2px solid grey;
+  top: 130%;
+  left: 66%;
+}
+
+.following{
+  font-size: 20px;
+  top: 144%;
+  left: 65%
+}
+}
+
+@media (min-width: 1000px) {
+  .following-number{
+    font-size: 20px;
+    border-radius: 4px;
+    width: 60px;
+    border: 2px solid grey;
+    top: 130%;
+    left: 57%;
+  }
+  
+  .following{
+    font-size: 20px;
+    top: 144%;
+    left: 56%
+  }
+}
+
+@media (min-width: 1200px) {
+  .pp {
+    width: 250px; /*   300 */
+    height: 250px;
+    background-size: cover;
+    background-position: center;
+    background-image: url('./assets/pp.jpeg');
+    border-radius: 50%;
+    border: 2px solid grey;
+    position: absolute;
+    top: -70px;
+    left: 130px;
+  }
+  
+.following-number{
+  font-size: 20px;
+  border-radius: 4px;
+  width: 60px;
+  border: 2px solid grey;
+  top: 130%;
+  left: 57%;
+}
+
+.following{
+  font-size: 20px;
+  top: 144%;
+  left: 56%
+}
 }

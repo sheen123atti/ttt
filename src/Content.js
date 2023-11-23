@@ -19,9 +19,7 @@ export default function Content() {
         <img
           src={like}
           alt="like"
-          style={{ marginLeft: "auto" }}
-          width="6%"
-          height="6%"
+          className="like-icon"
         ></img>
       </div>
       <div className="line text-start my-4" style={{ fontSize: "110%" }}>
